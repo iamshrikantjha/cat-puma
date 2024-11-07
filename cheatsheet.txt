@@ -1,0 +1,4 @@
+1. docker build -t python2-app . | tee docker_build_logs.txt
+2. docker run -it python2-app
+
+3. edit Params run first 2 command lines again
