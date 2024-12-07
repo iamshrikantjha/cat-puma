@@ -1,0 +1,2 @@
+docker build -t cat_puma_image .
+docker run --rm cat_puma_image
