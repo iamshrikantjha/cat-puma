@@ -1,4 +1,5 @@
-# Dockerfile for Python 2
+# Dockerfile for Python 
+FROM ubuntu:20.04
 FROM python:2.7
 
 # Set environment variables
